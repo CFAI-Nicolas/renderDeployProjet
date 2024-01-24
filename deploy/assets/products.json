@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Ordinateur portable",
+    "description": "Ordinateur portable performant avec écran Full HD.",
+    "price": 999.99
+  },
+  {
+    "id": 2,
+    "name": "Souris sans fil",
+    "description": "Souris ergonomique sans fil avec récepteur USB.",
+    "price": 29.99
+  },
+  {
+    "id": 3,
+    "name": "Écran 27 pouces",
+    "description": "Écran LED 27 pouces avec résolution 4K.",
+    "price": 349.99
+  },
+  {
+    "id": 4,
+    "name": "Clavier mécanique",
+    "description": "Clavier mécanique rétroéclairé pour les gamers.",
+    "price": 79.99
+  },
+  {
+    "id": 5,
+    "name": "Disque dur externe 2 To",
+    "description": "Disque dur externe de 2 To pour stocker vos données.",
+    "price": 89.99
+  },
+  {
+    "id": 6,
+    "name": "Imprimante laser",
+    "description": "Imprimante laser monochrome rapide pour un usage professionnel.",
+    "price": 199.99
+  },
+  {
+    "id": 7,
+    "name": "Casque audio sans fil",
+    "description": "Casque audio sans fil avec suppression de bruit active.",
+    "price": 149.99
+  },
+  {
+    "id": 8,
+    "name": "Tablette graphique",
+    "description": "Tablette graphique professionnelle pour les graphistes.",
+    "price": 299.99
+  },
+  {
+    "id": 9,
+    "name": "Routeur Wi-Fi 6",
+    "description": "Routeur Wi-Fi 6 pour une connectivité ultra-rapide.",
+    "price": 129.99
+  },
+  {
+    "id": 10,
+    "name": "Webcam HD",
+    "description": "Webcam HD pour les appels vidéo de haute qualité.",
+    "price": 49.99
+  },
+  {
+    "id": 11,
+    "name": "Enceinte Bluetooth",
+    "description": "Enceinte Bluetooth portable avec une excellente qualité sonore.",
+    "price": 79.99
+  },
+  {
+    "id": 12,
+    "name": "Moniteur 4K",
+    "description": "Moniteur 4K de 32 pouces pour une expérience visuelle exceptionnelle.",
+    "price": 499.99
+  },
+  {
+    "id": 13,
+    "name": "Clé USB 128 Go",
+    "description": "Clé USB haute capacité de 128 Go pour le stockage de fichiers.",
+    "price": 29.99
+  },
+  {
+    "id": 14,
+    "name": "Disque SSD 1 To",
+    "description": "Disque SSD de 1 To pour des performances de stockage exceptionnelles.",
+    "price": 169.99
+  },
+  {
+    "id": 15,
+    "name": "Écouteurs sans fil",
+    "description": "Écouteurs sans fil Bluetooth avec autonomie de batterie longue durée.",
+    "price": 79.99
+  },
+  {
+    "id": 16,
+    "name": "Scanner de documents",
+    "description": "Scanner de documents haute vitesse pour la numérisation de documents.",
+    "price": 199.99
+  },
+  {
+    "id": 17,
+    "name": "Routeur mesh Wi-Fi",
+    "description": "Routeur mesh Wi-Fi pour une couverture réseau étendue dans toute la maison.",
+    "price": 149.99
+  },
+  {
+    "id": 18,
+    "name": "Écran incurvé 34 pouces",
+    "description": "Écran incurvé ultralarge de 34 pouces pour une expérience immersive.",
+    "price": 599.99
+  },
+  {
+    "id": 19,
+    "name": "Imprimante tout-en-un",
+    "description": "Imprimante tout-en-un avec impression, numérisation et copie.",
+    "price": 129.99
+  },
+  {
+    "id": 20,
+    "name": "Haut-parleurs de bureau",
+    "description": "Haut-parleurs de bureau de haute qualité pour un son cristallin.",
+    "price": 49.99
+  },
+  {
+    "id": 21,
+    "name": "Routeur 5G",
+    "description": "Routeur 5G pour une connectivité ultra-rapide et une faible latence.",
+    "price": 199.99
+  },
+  {
+    "id": 22,
+    "name": "Souris ergonomique verticale",
+    "description": "Souris ergonomique verticale pour réduire la tension du poignet.",
+    "price": 39.99
+  },
+  {
+    "id": 23,
+    "name": "Disque dur NAS 4 To",
+    "description": "Disque dur NAS de 4 To pour le stockage de données en réseau.",
+    "price": 229.99
+  },
+  {
+    "id": 24,
+    "name": "Câble HDMI 4K",
+    "description": "Câble HDMI 4K haute qualité pour la transmission de signaux vidéo 4K.",
+    "price": 9.99
+  },
+  {
+    "id": 25,
+    "name": "Étui de protection pour ordinateur portable",
+    "description": "Étui de protection élégant pour ordinateur portable avec rembourrage.",
+    "price": 29.99
+  }
+]
